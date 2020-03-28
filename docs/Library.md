@@ -1,8 +1,9 @@
 ---
 layout: default
-title: About software
+title: Library
 has_children: true
+permalink: docs/Library
 nav_order: 7
 ---
 
-# About software
+# Library

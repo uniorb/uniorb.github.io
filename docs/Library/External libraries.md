@@ -2,7 +2,7 @@
 layout: default
 title: External libraries
 has_children: false
-parent: About software
+parent: Library
 nav_order: 3
 ---
 
