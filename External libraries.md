@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Architecture
+title: External libraries
 has_children: false
 parent: About Software
-nav_order: 1
+nav_order: 3
 ---
 
-# Architecture
+# External libraries

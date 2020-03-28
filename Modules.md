@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Architecture
+title: Modules
 has_children: false
 parent: About Software
-nav_order: 1
+nav_order: 2
 ---
 
-# Architecture
+# Modules
