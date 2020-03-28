@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Library
+title: Structure
 has_children: true
-permalink: docs/Library
+permalink: docs/Structure
 nav_order: 7
 ---
 
-# Library
+# Structure

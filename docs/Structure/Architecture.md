@@ -2,7 +2,7 @@
 layout: default
 title: Architecture
 has_children: false
-parent: Library
+parent: Structure
 nav_order: 1
 ---
 
