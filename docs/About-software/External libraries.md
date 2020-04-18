@@ -1,9 +1,0 @@
----
-layout: default
-title: External libraries
-has_children: false
-parent: About software
-nav_order: 3
----
-
-# External libraries

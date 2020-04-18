@@ -2,8 +2,8 @@
 layout: default
 title: External libraries
 has_children: false
-parent: Structure
-nav_order: 3
+parent: Architecture
+nav_order: 4
 ---
 
 # External libraries
