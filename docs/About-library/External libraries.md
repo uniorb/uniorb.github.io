@@ -2,7 +2,7 @@
 layout: default
 title: External libraries
 has_children: false
-parent: Architecture
+parent: About library
 nav_order: 4
 ---
 
