@@ -1,7 +1,7 @@
-title: "Uniorb"
+title: "uniorb"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 logo: "/assets/images/logo.png"
 aux_links:
-  "Uniorb on GitHub":
+  "uniorb on GitHub":
     - "https://github.com/uniorb/uniorb"
