@@ -1,7 +1,7 @@
 ---
 layout: default
 title: License
-nav_order: 9
+nav_order: 8
 ---
 
 # License
