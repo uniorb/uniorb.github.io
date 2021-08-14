@@ -2,7 +2,7 @@
 layout: default
 title: Geodetic coordinates
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 5
 ---
 

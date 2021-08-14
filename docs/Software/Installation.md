@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Performance
+title: Installation
 has_children: false
-parent: About the library
+parent: Software
 nav_order: 1
 ---
 
-# Performance
+# Installation

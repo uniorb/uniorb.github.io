@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Propagation
+title: Data
 has_children: false
-parent: User guide
+parent: Software
 nav_order: 4
 ---
 
-# Propagation
+# Data

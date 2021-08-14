@@ -2,7 +2,7 @@
 layout: default
 title: Force models
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 3
 ---
 

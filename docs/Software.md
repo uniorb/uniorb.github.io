@@ -1,9 +1,9 @@
 ---
 layout: default
-title: User guide
+title: Software
 has_children: true
-permalink: docs/User-guide
+permalink: docs/Software
 nav_order: 6
 ---
 
-# User guide
+# Software

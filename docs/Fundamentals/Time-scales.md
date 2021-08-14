@@ -2,7 +2,7 @@
 layout: default
 title: Time scales
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 1
 ---
 

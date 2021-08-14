@@ -2,7 +2,7 @@
 layout: default
 title: Reference frames
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 2
 ---
 

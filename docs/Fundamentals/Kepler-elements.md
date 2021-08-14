@@ -2,7 +2,7 @@
 layout: default
 title: Kepler elements
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 0
 ---
 

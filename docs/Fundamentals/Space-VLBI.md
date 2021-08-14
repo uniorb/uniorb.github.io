@@ -2,7 +2,7 @@
 layout: default
 title: Space VLBI
 has_children: false
-parent: User guide
+parent: Fundamentals
 nav_order: 6
 ---
 
