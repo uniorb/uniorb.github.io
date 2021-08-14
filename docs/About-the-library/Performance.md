@@ -2,7 +2,7 @@
 layout: default
 title: Performance
 has_children: false
-parent: About library
+parent: About the library
 nav_order: 1
 ---
 
